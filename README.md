@@ -11,5 +11,8 @@ The web server component "KDH", after receiving certain requests, executes a mem
 An attacker is able to fill the heap before the memory is reused, in order to execute arbitrary code.
 
 http://www-01.ibm.com/support/docview.wss?uid=swg22010554
+
 https://www.securityfocus.com/bid/101905
+
 http://www.quantumleap.it/ibm-tivoli-monitoring-cve-2017-1635-remote-code-execution-vulnerability/
+
